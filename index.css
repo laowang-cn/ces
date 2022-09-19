@@ -63,6 +63,12 @@ body{
 }
 #app .main .leir .left{
     display: flex;
+    font-size: .8125rem;
+}
+#app .main .leir .right{
+    display: flex;
+    margin-right: .3125rem;
+    margin-left: 1.25rem;
 }
 #app .main  .leir .left img{
     width: 2.25rem;
@@ -70,7 +76,7 @@ body{
 }
 #app .main  .leir .left select{
     font-weight: bolder;
-    font-size: 1.25rem;
+    font-size: 1.05rem;
     border: 0;
 }
 #app .main  .leir .left select:focus-visible {
